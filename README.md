@@ -19,4 +19,5 @@ A cheat for the game Muck 1.3
 - No Cooldown (Currently Broken)
 - Air Jump
 - No Stamina and Hunger
-- mm. to come
+
+And much more to come.
