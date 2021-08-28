@@ -17,8 +17,8 @@ A cheat for the game Muck 1.3
 - [DEL] Spawn player (Type a name in chat and click DEL instead of ENTER)
 - [END] Instantly ends the game as if you killed the dragon
 - [F1] Godmode
-- [F2] Infinite Range
-- [F3] One Tap (Insta kill/break)
+- [F2] Infinite Range [Need to repickup item]
+- [F3] One Tap (Insta kill/break) [Need to repickup item]
 - [F4] No Cooldown (Currently Broken)
 - [F5] No Stamina and Hunger
 - [F6] Air Jump
