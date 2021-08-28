@@ -12,12 +12,18 @@ A cheat for the game Muck 1.3
 - Some features work on multiplayer (Best if you are the host)
 
 ## Features
-- Godmode
-- Infinite Range
-- Movement Speed Modifier
-- One Tap (Insta kill/break)
-- No Cooldown (Currently Broken)
-- Air Jump
-- No Stamina and Hunger
+- [INSERT] Noclip
+- [HOME] Regenerate World
+- [DEL] Spawn player (Type a name in chat and click DEL instead of ENTER)
+- [END] Instantly ends the game as if you killed the dragon
+- [F1] Godmode
+- [F2] Infinite Range
+- [F3] One Tap (Insta kill/break)
+- [F4] No Cooldown (Currently Broken)
+- [F5] No Stamina and Hunger
+- [F6] Air Jump
+- [PAGEUP/PAGEDOWN] Movement Speed Modifier
+- /give command in chat (CAPITAL CHARACTERS MATTER!!!!)
+  - Examples: "/give Wood" "/give Red Gem" "/give Blade" etc.
 
 And much more to come.
